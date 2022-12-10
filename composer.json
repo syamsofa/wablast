@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ay4t/whatsapp-helper": "dev-main"
+    }
+}
