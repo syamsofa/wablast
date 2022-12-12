@@ -1,3 +1,6 @@
 2022/12/11-14:29:48.087 a84 Reusing MANIFEST C:\wablast\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
 2022/12/11-14:29:48.087 a84 Recovering log #3
 2022/12/11-14:29:48.088 a84 Reusing old log C:\wablast\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2022/12/11-14:31:48.539 6818 Level-0 table #5: started
+2022/12/11-14:31:48.543 6818 Level-0 table #5: 27083 bytes OK
+2022/12/11-14:31:48.545 6818 Delete type=0 #3
