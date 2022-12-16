@@ -1,29 +1,29 @@
-2022/12/11-14:28:59.265 1b54 Reusing MANIFEST C:\wablast\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/11-14:28:59.265 1b54 Recovering log #482
-2022/12/11-14:28:59.377 1b54 Reusing old log C:\wablast\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000482.log 
-2022/12/11-14:29:10.940 3584 Level-0 table #500: started
-2022/12/11-14:29:10.972 3584 Level-0 table #500: 1162790 bytes OK
-2022/12/11-14:29:10.973 3584 Delete type=0 #482
-2022/12/11-14:29:12.043 1b44 Compacting 1@1 + 9@2 files
-2022/12/11-14:29:12.153 1b44 Generated table #501@1: 41342 keys, 2259129 bytes
-2022/12/11-14:29:12.196 1b44 Generated table #502@1: 3511 keys, 2170091 bytes
-2022/12/11-14:29:12.240 1b44 Generated table #503@1: 3677 keys, 2167735 bytes
-2022/12/11-14:29:12.280 1b44 Generated table #504@1: 2778 keys, 2157172 bytes
-2022/12/11-14:29:12.319 1b44 Generated table #505@1: 2919 keys, 2162676 bytes
-2022/12/11-14:29:12.370 1b44 Generated table #506@1: 8357 keys, 2171779 bytes
-2022/12/11-14:29:12.462 1b44 Generated table #507@1: 28143 keys, 2263563 bytes
-2022/12/11-14:29:12.559 1b44 Generated table #508@1: 24466 keys, 2274559 bytes
-2022/12/11-14:29:12.628 1b44 Generated table #509@1: 21424 keys, 2197025 bytes
-2022/12/11-14:29:12.635 1b44 Generated table #510@1: 618 keys, 225385 bytes
-2022/12/11-14:29:12.635 1b44 Compacted 1@1 + 9@2 files => 20049114 bytes
-2022/12/11-14:29:12.635 1b44 compacted to: files[ 0 1 18 0 0 0 0 ]
-2022/12/11-14:29:12.636 1b44 Delete type=2 #487
-2022/12/11-14:29:12.636 1b44 Delete type=2 #488
-2022/12/11-14:29:12.636 1b44 Delete type=2 #489
-2022/12/11-14:29:12.636 1b44 Delete type=2 #490
-2022/12/11-14:29:12.636 1b44 Delete type=2 #491
-2022/12/11-14:29:12.636 1b44 Delete type=2 #492
-2022/12/11-14:29:12.636 1b44 Delete type=2 #493
-2022/12/11-14:29:12.636 1b44 Delete type=2 #494
-2022/12/11-14:29:12.636 1b44 Delete type=2 #495
-2022/12/11-14:29:12.636 1b44 Delete type=2 #500
+2022/12/11-14:29:48.755 a84 Reusing MANIFEST C:\wablast\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/11-14:29:48.755 a84 Recovering log #499
+2022/12/11-14:29:48.847 a84 Reusing old log C:\wablast\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000499.log 
+2022/12/11-14:30:02.886 36a8 Level-0 table #513: started
+2022/12/11-14:30:02.914 36a8 Level-0 table #513: 1141453 bytes OK
+2022/12/11-14:30:02.915 36a8 Delete type=0 #499
+2022/12/11-14:30:02.925 36a8 Compacting 1@1 + 9@2 files
+2022/12/11-14:30:03.032 36a8 Generated table #514@1: 41150 keys, 2255999 bytes
+2022/12/11-14:30:03.073 36a8 Generated table #515@1: 4551 keys, 2172420 bytes
+2022/12/11-14:30:03.112 36a8 Generated table #516@1: 3650 keys, 2166622 bytes
+2022/12/11-14:30:03.149 36a8 Generated table #517@1: 2822 keys, 2160253 bytes
+2022/12/11-14:30:03.180 36a8 Generated table #518@1: 2908 keys, 2160957 bytes
+2022/12/11-14:30:03.220 36a8 Generated table #519@1: 7433 keys, 2171431 bytes
+2022/12/11-14:30:03.302 36a8 Generated table #520@1: 28655 keys, 2261985 bytes
+2022/12/11-14:30:03.395 36a8 Generated table #521@1: 24420 keys, 2274709 bytes
+2022/12/11-14:30:03.459 36a8 Generated table #522@1: 21571 keys, 2197599 bytes
+2022/12/11-14:30:03.462 36a8 Generated table #523@1: 374 keys, 50770 bytes
+2022/12/11-14:30:03.463 36a8 Compacted 1@1 + 9@2 files => 19872745 bytes
+2022/12/11-14:30:03.463 36a8 compacted to: files[ 0 1 19 0 0 0 0 ]
+2022/12/11-14:30:03.464 36a8 Delete type=2 #501
+2022/12/11-14:30:03.464 36a8 Delete type=2 #502
+2022/12/11-14:30:03.464 36a8 Delete type=2 #503
+2022/12/11-14:30:03.464 36a8 Delete type=2 #504
+2022/12/11-14:30:03.464 36a8 Delete type=2 #505
+2022/12/11-14:30:03.464 36a8 Delete type=2 #506
+2022/12/11-14:30:03.464 36a8 Delete type=2 #507
+2022/12/11-14:30:03.464 36a8 Delete type=2 #508
+2022/12/11-14:30:03.464 36a8 Delete type=2 #509
+2022/12/11-14:30:03.464 36a8 Delete type=2 #513

@@ -1,4 +1,24 @@
-[1211/142948.138:ERROR:dxva_video_decode_accelerator_win.cc(1426)] DXVAVDA fatal error: Could not load mf.dll: The specified module could not be found. (0x7E)
-[1211/142959.301:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
-[1211/142959.808:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
-[1211/142959.868:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1214/085416.198:ERROR:dxva_video_decode_accelerator_win.cc(1426)] DXVAVDA fatal error: Could not load mf.dll: The specified module could not be found. (0x7E)
+[1214/085420.273:ERROR:backend_impl.cc(1041)] Critical error found -8
+[1214/085420.314:WARNING:storage_block-inl.h(147)] Failed data load.
+[1214/085420.314:WARNING:storage_block-inl.h(147)] Failed data load.
+[1214/085420.315:WARNING:storage_block-inl.h(147)] Failed data load.
+[1214/085420.315:WARNING:storage_block-inl.h(147)] Failed data load.
+[1214/085420.316:WARNING:storage_block-inl.h(147)] Failed data load.
+[1214/085420.316:WARNING:storage_block-inl.h(147)] Failed data load.
+[1214/085420.317:WARNING:storage_block-inl.h(147)] Failed data load.
+[1214/085420.317:WARNING:storage_block-inl.h(147)] Failed data load.
+[1214/085420.318:WARNING:storage_block-inl.h(147)] Failed data load.
+[1214/085420.318:WARNING:storage_block-inl.h(147)] Failed data load.
+[1214/085420.319:WARNING:storage_block-inl.h(147)] Failed data load.
+[1214/085420.319:WARNING:storage_block-inl.h(147)] Failed data load.
+[1214/085420.320:WARNING:storage_block-inl.h(147)] Failed data load.
+[1214/085420.320:WARNING:storage_block-inl.h(147)] Failed data load.
+[1214/085421.444:WARNING:storage_block-inl.h(147)] Failed data load.
+[1214/085436.955:INFO:CONSOLE(1)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.a2eec9d34a48e171b258.worker.js (1)
+[1214/085436.955:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.58a51d93a250f83ab555.js (7)
+[1214/085440.359:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1214/085440.592:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1214/085450.532:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.58a51d93a250f83ab555.js (7)
+[1214/085656.366:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1214/085656.443:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
